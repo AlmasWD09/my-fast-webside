@@ -1,0 +1,10 @@
+ol{
+    background-color: aqua;
+    padding: 45px;
+    border: 1px solid salmon;
+    width: 50%;
+}
+ol:hover{
+    background-color: rgb(255, 0, 166);
+    
+}

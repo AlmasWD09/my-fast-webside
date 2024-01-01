@@ -1,0 +1,19 @@
+/* a > button{
+    background-color: gold;
+    border: none;
+    padding: 10px 20px;
+} */
+ul{
+    list-style-type: square;
+    color: tomato;
+}
+.img-setup{
+    display:flex;
+    align-items: center;
+    column-gap: 20px;
+   
+}
+.new::after{
+    content:"*";
+    color: red;
+}
